@@ -7,7 +7,7 @@ function App() {
     <div>
       <Car></Car>
     </div>
-    
+  
   );
 }
 
